@@ -8,6 +8,7 @@ A modular Streamlit app for resume parsing, ATS scoring, LLM feedback (using Lan
 - ATS scoring (rule-based, structured comparison)
 - LLM feedback (template-based, Gemini via LangChain)
 - Curated resume examples by role
+- Add a .streamlit folder with secrets.toml -->google="Your-gemini-api-key"
 
 ## Setup
 

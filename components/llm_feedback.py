@@ -3,7 +3,7 @@
 import os
 import logging
 from typing import Dict, List, Optional, Any
-from langchain-google-genai import ChatGoogleGenerativeAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from components.templates import FEEDBACK_TEMPLATE
 import streamlit as st
 

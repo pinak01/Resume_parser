@@ -46,7 +46,7 @@ jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 langchain-community==0.3.27
 langchain-core==0.3.69
-langchain-google-genai==2.1.8
+langchain-google-genai
 langchain-text-splitters==0.3.8
 langsmith==0.4.6
 lxml==6.0.0

@@ -1,0 +1,14 @@
+{
+    "Software Engineer": [
+      "Example 1: John Doe - Python, Java, React, built scalable APIs at TechCorp.",
+      "Example 2: Jane Smith - Full-stack developer, React, Node.js, cloud deployments."
+    ],
+    "Data Scientist": [
+      "Example 1: Alice Lee - Machine learning, Python, SQL, published research.",
+      "Example 2: Bob Kim - Data analysis, statistics, built predictive models."
+    ],
+    "Product Manager": [
+      "Example 1: Carol White - Led product strategy, stakeholder management, roadmap planning.",
+      "Example 2: Dave Brown - Product launches, cross-functional teams, agile methodologies."
+    ]
+  } 
